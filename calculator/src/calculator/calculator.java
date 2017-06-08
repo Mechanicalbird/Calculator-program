@@ -212,10 +212,7 @@ public class calculator implements ActionListener{
 		if(source == buttondot){
 			textarea.append(".");
 		}
-		
-		if(source == buttonadd){
-			textarea.append(".");
-		}
+
 		
 		
 		if(source == buttonadd){
