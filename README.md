@@ -1,6 +1,6 @@
 # CalculatorAPP
 
-these are the files you will need in applying the tutorial  of
+## these are the files you will need in applying the tutorial  of
 how to make a calculator in eclipse java part, WHICH HAS THE FOLLOWING VIDEOS:
 
 how to make a calculator in eclipse java part 1
